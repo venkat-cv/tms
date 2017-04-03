@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!--Login page-->
 <?php
 session_start();
 include('include-scripts.php');
