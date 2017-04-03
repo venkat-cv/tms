@@ -1,0 +1,38 @@
+.top-pane{
+	color: white;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	background-color: brown;
+}
+
+.logout-btn{
+	top: 20%;
+	position: absolute;
+	right: 3%;
+	color: black;
+}
+
+.welcome-msg{
+	position: absolute;
+	top: 30%;
+	left: 3%;
+}
+
+.createForm{
+	display: none;
+}
+
+.create-msg{
+	display:none;
+}
+
+.signup-form{
+	display: none;
+}
+
+.sec-form{
+	display: none;
+}
